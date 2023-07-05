@@ -1,0 +1,28 @@
+h1{
+    font-size: smaller;
+    text-align: center;
+}
+p{
+    color: red;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+}
+#abc{
+    color: green;
+    background-color: rgb(100,0,0);
+}
+.ab{
+    color: coral;
+    background-color: rgba(100, 100, 76, 1);
+}
+p,article{
+    width:550px;
+}
+p.ab{
+    text-align: center;
+    background-color: fffffff;
+    color: #ac7bb559;
+    /* color: hsl(32, 100%, 51%); */
+}
